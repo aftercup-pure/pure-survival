@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
                     android:scheme="https"
-                    android:host="https://minimal-calendar.space/" 
+                    android:host="https://aftercup-pure.github.io/pure-survival/" 
                     android:pathPrefix="/" />
             </intent-filter>
         </activity>
