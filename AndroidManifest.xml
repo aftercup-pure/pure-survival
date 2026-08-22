@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aftercup.calendarmp">
+    package="com.pure.survival">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/> <uses-permission android:name="android.permission.USE_EXACT_ALARM" />   <application
-        android:label="Aftercup Calendar"
+        android:label="Pure Survival"
         android:icon="@mipmap/ic_launcher"
         android:theme="@style/AppTheme">
 
