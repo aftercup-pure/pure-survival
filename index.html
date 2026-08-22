@@ -3,7 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-<title>Pure Survival — E-ink Field Manual</title>
+<link rel="manifest" href="/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Pure Survival — E-ink Field Manual</title> 
 <style>
   :root{
     --ink:#000;
@@ -1172,6 +1175,10 @@
   render();
   checkTrailMapPage();
 })();
+
+if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('sw.js').catch(()=>{});
+      }
 </script>
 
 </body>
