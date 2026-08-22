@@ -1,7 +1,7 @@
 {
- "name": "Pure Calendar",
-  "short_name": "Pure Calendar",
-  "description": "Calendar from Aftercup",
+ "name": "Pure Survival",
+  "short_name": "Pure Survival",
+  "description": "Survival guide from Aftercup",
   "id": "/",
   "start_url": "/",
   "display": "standalone",
