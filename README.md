@@ -4,11 +4,13 @@ A distraction-free, high-contrast survival handbook designed for the **Minimal P
 
 ---
 
-## 📱 Screenshot
+## 📖 Intro
 
 <p align="center">
   <img src="https://i.postimg.cc/rsSW9nzB/IMG-0029.jpg" alt="Pure Survival" width="320">
 </p>
+
+Pure Survival is a pocket field manual for situations where you need answers fast and can't rely on a signal. Every entry is written as short, numbered, boxed steps you can follow under stress, and the whole handbook runs offline from one file. The Trail Map is the only part that needs a connection.
 
 ---
 
@@ -52,23 +54,6 @@ Simple plain-text notes saved in `localStorage`. Nothing leaves your device.
 
 ---
 
-## ⌨️ Navigation
-
-Everything works with buttons, and physical keys work too:
-
-| Key | Action |
-| :--- | :--- |
-| <kbd>→</kbd> / <kbd>PageDown</kbd> | Next page |
-| <kbd>←</kbd> / <kbd>PageUp</kbd> | Previous page |
-| <kbd>Esc</kbd> | Close the info panel |
-
-* **Home:** Tap the title to return to the tile menu from anywhere.
-* **Topic menu:** A dropdown in the header jumps straight to any entry.
-* **Search:** Filters all entries by text.
-* **Deep links:** Every entry has its own address (for example `#s06` opens First Aid).
-
----
-
 ## 🚀 Technical details
 
 * **Version:** `v0.1.1`
@@ -82,14 +67,10 @@ Everything works with buttons, and physical keys work too:
 
 ## 📥 Installation
 
-1. Download `survival-handbook.html`.
-2. Open it in any browser, or wrap it in an Android WebView.
+1. Download the latest version from **Releases**.
+2. Open it in any browser, or install it on your **Minimal Phone**.
 3. *(Optional)* Add it to your home screen for one-tap access.
 
 ---
-
-## 🔗 Links
-
-* **GitHub:** https://github.com/aftercup-pure/
 
 *Made for Minimal Phone MP01.*
